@@ -1,5 +1,4 @@
 * {
-
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -44,8 +43,7 @@ body {
   padding: 1vw;
 }
 
-.header {
-  background: #f5f5f5;
-  background-size: cover;
+.header .h {
   color: #000;
+  font-weight: 400;
 }
