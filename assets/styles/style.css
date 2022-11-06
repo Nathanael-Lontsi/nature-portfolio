@@ -8,6 +8,7 @@
 
 body {
   background: #f5f5f5;
+  font-family: Raleway, sans-serif;
 }
 
 .wrapper .sidebar {
@@ -23,6 +24,23 @@ body {
 .profile {
   border-radius: 4px;
   padding: 1vh;
+  line-height: 3;
+}
+
+.profile-text {
+  line-height: 2.5;
+  color: #000;
+}
+
+.icon {
+  line-height: 3;
+  font-size: 14px;
+  color: #000;
+} 
+
+.item {
+  color: #000;
+  padding: 1vw;
 }
 
 .header {
