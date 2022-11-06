@@ -43,7 +43,8 @@ body {
   padding: 1vw;
 }
 
-.header .h {
+h1 {
   color: #000;
   font-weight: 400;
+  padding: 5vh;
 }
