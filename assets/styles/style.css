@@ -40,6 +40,12 @@
   font-size: 14px;
 }
 
+p {
+  font-size: 18px;
+  font-weight: 400;
+  padding: 2px;
+}
+
 .profile-text p {
   line-height: 1.5;
   padding-left: 0;
@@ -196,6 +202,12 @@ figcaption {
 }
 
 p {
+  font-size: 18px;
+  font-weight: 400;
+  padding: 2px;
+}
+
+h2 {
   font-size: 18px;
   font-weight: 400;
   padding: 2px;
