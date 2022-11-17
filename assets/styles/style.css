@@ -195,6 +195,12 @@ figcaption {
   padding-bottom: 20px;
 }
 
+h2 {
+  font-size: 18px;
+  font-weight: 400;
+  padding: 2px;
+}
+
 .caption-text h2 {
   font-size: 16px;
   padding-left: 8px;
@@ -214,7 +220,7 @@ figcaption {
   font-size: 17px;
 }
 
-.pagination a {
+.paginations a {
   color: #fff;
   border-bottom: 1px solid #fff;
 }
@@ -396,6 +402,12 @@ h6 {
   padding-left: 15px;
 }
 
+h2 {
+  font-size: 18px;
+  font-weight: 400;
+  padding: 2px;
+}
+
 .footer-a h2 {
   font-weight: 400;
   margin-left: 10px;
@@ -503,12 +515,6 @@ h6 {
   margin: 25px 0;
   margin-left: 50px;
   float: left;
-}
-
-h2 {
-  font-size: 18px;
-  font-weight: 400;
-  padding: 2px;
 }
 
 .lorem p {
