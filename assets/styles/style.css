@@ -214,6 +214,11 @@ figcaption {
   font-size: 17px;
 }
 
+.pagination a {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+
 .pagination a:hover {
   background-color: #000;
   color: #fff;
@@ -234,7 +239,7 @@ h3 {
   padding-left: 7px;
 }
 
-.profile-text p {
+.profiles-text p {
   line-height: 1.5;
   font-size: 16px;
   padding-left: 7px;
@@ -487,11 +492,6 @@ h6 {
   text-align: left;
 }
 
-.pagination a {
-  color: #fff;
-  border-bottom: 1px solid #fff;
-}
-
 .footer-b {
   color: #fff;
   margin: 40px 0;
@@ -505,7 +505,7 @@ h6 {
   float: left;
 }
 
-h6 {
+h2 {
   font-size: 18px;
   font-weight: 400;
   padding: 2px;
@@ -551,12 +551,11 @@ h6 {
 }
 
 @media screen and (max-width: 768px) {
-
-.wrapper .sidebar {
-  display: none;
-  visibility: hidden;
-}
-
+  .wrapper .sidebar {
+    display: none;
+    visibility: hidden;
+  }
+  
   .pagecontent {
     gap: 1px;
   }
@@ -609,10 +608,9 @@ h6 {
 }
 
 @media screen and (max-width: 425px) {
-
-.icon-button {
-  display: block;
-}
+  .icon-button {
+    display: block;
+  }
 
   .nature-cards {
     display: block;
