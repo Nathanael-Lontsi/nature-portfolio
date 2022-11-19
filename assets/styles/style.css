@@ -505,7 +505,7 @@ h2 {
   background-color: #616161;
   display: grid;
   grid-template-columns: auto auto auto;
-  gap: 20px;
+  gap: 21px;
 }
 
 .footer-a {
