@@ -326,7 +326,7 @@ h5 {
   display: grid;
   gap: 5px;
   grid-template-columns: auto auto auto;
-  margin-left: 5px;
+  margin-left: 6px;
 }
 
 .border {
@@ -635,7 +635,7 @@ h5 {
 
   .progress-bars {
     height: 40px;
-    width: 740px;
+    width: 720px;
   }
 
   .heading {
