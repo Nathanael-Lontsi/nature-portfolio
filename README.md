@@ -1,5 +1,5 @@
 # nature-portfolio project
-This project is all about an investment made on the nature with description as follows: the first section which is the most descriptive with icons, images, pictures, etc. The next section gives the investigator address and the last two sections contain the footer with the link
+This project is all about an investment made on the nature with description as follows: the first section which is the most descriptive with icons, images, pictures, etc. The next section gives the investigator address and the last two sections contain the footer with the link.
 ## App
 ![nature-cards](assets/images/nature-cards.png)
 ### Built with
